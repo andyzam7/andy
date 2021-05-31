@@ -1,0 +1,51 @@
+*{
+    
+}
+div{
+    width: 1000px;
+    margin: auto;
+    background: #DF0174;
+}
+header{
+    background: #FF0080;
+    height: 60px;
+    margin: 5px;
+}
+.nav{
+    background: #FE2E9A;
+    height: 60px;
+    margin: 5px;
+}
+.nav1{
+    background: #F5A9D0;
+    width: 200px;
+    height: 379px;
+    float: left;
+    margin: 5px;
+}
+.aside{
+    background: #FA58F4;
+    width: 200px;
+    height: 379px;
+    float: right;
+    margin: 5px;
+}
+.section1{
+    background: #FA58F4;
+    width: 580px;
+    height: 298px;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.section2{
+    background: #FF0040;
+    width: 580px;
+    height: 298px;
+    margin-left: 210px;
+    margin-top: 5px;
+}
+.footer{
+    background: #FF0040;
+    height: 30px;
+    margin-top: 5px;
+}
